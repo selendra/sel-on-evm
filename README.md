@@ -31,6 +31,8 @@ npx hardhat run script/deploy.js --network bscTestnet
 
 ## Production
 
+Deploy to BSC mainnet.
+
 ```shell
 npx hardhat run script/deploy.js
 ```
